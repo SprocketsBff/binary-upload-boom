@@ -1,0 +1,9 @@
+body{
+    background-image: url('/imgs/Sprocket_Camping.jpg');
+    background-size: 100%;
+    background-attachment: fixed;
+}
+
+title{
+    color:aqua;
+}
